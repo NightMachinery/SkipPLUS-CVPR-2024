@@ -1,6 +1,6 @@
-#+TITLE: SkipPLUS: Skip the First Few Layers to Better Explain Vision Transformers [TCV 2024 in conjunction with CVPR 2024]
+#+TITLE: SkipPLUS: Skip the First Few Layers to Better Explain Vision Transformers \[TCV 2024 in conjunction with CVPR 2024\]
 
-[CVPRW 2024] Official PyTorch implementation for SkipPLUS: Skip the First Few Layers to Better Explain Vision Transformers, a novel method to enhance attribution methods on Vision Transformer models. We also do a comprehensive benchmark of the prominent white-box attribution methods applicable to Transformers.
+\[CVPRW 2024\] Official PyTorch implementation for SkipPLUS: Skip the First Few Layers to Better Explain Vision Transformers, a novel method to enhance attribution methods on Vision Transformer models. We also do a comprehensive benchmark of the prominent white-box attribution methods applicable to Transformers.
 
 * SkipPLUS Paper Official Repository
 This project shares its codebase with our more recent work, [[https://github.com/NightMachinery/LibraGrad][LibraGrad: Balancing Gradient Flow for Universally Better Vision Transformer Attributions]]. We recommend using Libra FullGrad+, as it demonstrates superior performance compared to DecompX-SkipPLUS.
